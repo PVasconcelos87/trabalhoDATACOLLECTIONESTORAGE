@@ -4,7 +4,7 @@
 ####        Paulo Vasconcelos - 10742919
 
 #### Base de dados escolhida: 
-### Game Recommendations on Steam <img src="[https://exemplo.com/logo.png](https://storage.googleapis.com/kaggle-datasets-images/2871694/4956339/f21a7a4028cc168715d4b87c721e3a73/dataset-cover.png?t=2023-02-06-18-48-48)" >
+### Game Recommendations on Steam ![TESTE](https://storage.googleapis.com/kaggle-datasets-images/2871694/4956339/f21a7a4028cc168715d4b87c721e3a73/dataset-cover.png?t=2023-02-06-18-48-48)"
 ##### A dataset of games, users and reviews for building recommendation systems
 
 Tema Escolhido: Construção de um Data Lakehouse Transacional
