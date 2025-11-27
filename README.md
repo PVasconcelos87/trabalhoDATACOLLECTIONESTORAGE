@@ -4,6 +4,7 @@
 ####        Paulo Vasconcelos - 10742919
 
 Tema Escolhido: Construção de um Data Lakehouse Transacional
+Data Base Escolhido: Steam Game Recommendations
 Objetivo: Criar um pipeline de dados que simule a ingestão e o processamento de dados transacionais, aplicando as técnicas de pré-processamento e os formatos Open Data para garantir ACIDidade (Atomicidade, Consistência, Isolamento, Durabilidade).
 
 #### Requisitos Mínimos:
