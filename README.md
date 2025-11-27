@@ -5,7 +5,7 @@
 
 #### Base de dados escolhida: 
 ### Game Recommendations on Steam
-##### A dataset of games, users and reviews for building recommendation systems
+A dataset of games, users and reviews for building recommendation systems
 
 Tema Escolhido: Construção de um Data Lakehouse Transacional
 Data Base Escolhido: Steam Game Recommendations
